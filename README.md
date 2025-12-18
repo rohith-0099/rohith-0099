@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to Rohith's Digital Universe
+#Hey there, I'm Rohith Chandran 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Agentic+AI+Specialist+%F0%9F%A7%A0;Building+Tomorrow's+Tech+Today+%E2%9C%A8" alt="Typing SVG" />
 
