@@ -1,185 +1,220 @@
+<!-- ═══════════════ VIDEO BANNER ═══════════════ -->
+<!-- HOW TO ADD YOUR CODING VIDEO:
+  1. Open any GitHub Issue in your profile repo (rohith-0099/rohith-0099)
+  2. Drag & drop your .mp4 coding video into the comment box
+  3. GitHub auto-uploads it and gives you a URL like:
+     https://github.com/user-attachments/assets/xxxxxxxx
+  4. Replace VIDEO_URL_HERE below with that URL
+  5. Delete these comments once done -->
+
 <div align="center">
+  <video src="VIDEO_URL_HERE" autoplay loop muted playsinline width="100%"></video>
+</div>
 
-# Hey there, I'm Rohith Chandran 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Agentic+AI+Specialist+%F0%9F%A7%A0;Building+Tomorrow's+Tech+Today+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:00f5ff&height=160&section=header&text=Rohith%20Chandran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Agentic%20AI%20Builder&descSize=17&descAlignY=78" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-chandran-aprl/)
-[![Email](https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rohithchandran0011@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohith-0099)
-![Profile Views](https://komarev.com/ghpvc/?username=rohith-0099&color=00F5FF&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00F5FF&center=true&vCenter=true&width=580&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;Full+Stack+%E2%86%92+Backend+%E2%86%92+ML+Pipeline;From+Kerala%2C+Coding+for+the+World+%F0%9F%8C%8D;Open+Source+%7C+Open+Mind+%7C+Always+Learning" alt="typing"/>
+
+<br/><br/>
+
+[
+[
+[
+
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+***
 
-## 🌌 About Me
+<!-- ══════════════ TERMINAL BIO ══════════════ -->
 
-I'm **Rohith Chandran**, a passionate technologist at the intersection of **Full Stack Development** and **Artificial Intelligence**. Currently exploring the fascinating world of **Agentic AI** and building systems that think, learn, and act autonomously.
+```bash
+$ whoami
+  Rohith Chandran — CS Student · Full Stack Dev · AI/ML Engineer
 
-🔭 **Current Focus:** Developing intelligent AI agents and autonomous systems  
-🌱 **Learning:** Advanced AI Agents, LLM Integration, Multi-Agent Architectures  
-🤖 **Expertise:** Machine Learning • Deep Learning • Full Stack Development  
-💡 **Passion:** Creating AI solutions that solve real-world problems  
-📍 **Location:** Kollam, Kerala, India  
-✉️ **Contact:** rohithchandran0011@gmail.com  
-⚡ **Fun Fact:** I speak 8 programming languages fluently! 🗣️💻
+$ cat interests.txt
+  → Multi-Agent AI Systems      → Healthcare AI & Medical Imaging
+  → LLM Integration             → Full Stack Web (React / Next.js)
+  → Data Science & Analytics    → Open Source Contributions
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+$ echo $CURRENT_BUILD
+  MediCascade AI  |  ArogyaMap  |  Kerala Road Safety Analytics
 
-## 🛠️ Technology Arsenal
+$ uname -location
+  Kollam, Kerala, India  🌴
+```
 
-### Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+***
 
-### AI/ML & Data Science
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+<!-- ══════════════ TECH STACK ══════════════ -->
 
-### Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+## ⚙️ Tech Stack
 
-### Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
-</p>
+<details open>
+<summary><b>🧠 AI / ML</b></summary>
+<br/>
 
-### DevOps & Cloud
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohith-0099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-0099&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-0099&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&custom_title=Contribution%20Activity" />
-</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohith-0099&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
-</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</details>
 
-## 💼 Featured Projects
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br/>
+
+
+
+
+
+
+
+
+
+</details>
+
+<details>
+<summary><b>🛢️ Databases & DevOps</b></summary>
+<br/>
+
+
+
+
+
+
+
+
+</details>
+
+***
+
+<!-- ══════════════ PROJECTS ══════════════ -->
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Status |
+|--------|-------------|-------|--------|
+| 🧬 **MediCascade AI** | Multi-agent medical diagnosis engine with brain tumor detection & explainable AI | `Python` `FastAPI` `PyTorch` `React` | 🔨 Active |
+| 🗺️ **ArogyaMap** | Disease outbreak tracking with DBSCAN clustering & geospatial risk mapping for ASHA workers | `Next.js` `Python` `Supabase` `Leaflet` | 🔨 Active |
+| 🚗 **Kerala Road Safety** | Accident prediction & risk heatmaps using ML over real district-level data | `Python` `Scikit-learn` `Pandas` | 🔨 Active |
+| 💼 **career_bud** | ML-powered career guidance & recommendation system | `Python` `FastAPI` `ML` | ✅ Built |
+| 🏆 **CodeQuest Arena** | Competitive coding platform with real-time leaderboards | `React` `Node.js` `MongoDB` | ✅ Built |
+| 💬 **SentimentAnalysis** | Deep learning NLP emotion detection pipeline | `PyTorch` `Python` `NLP` | ✅ Built |
+
+***
+
+<!-- ══════════════ GITHUB STATS ══════════════ -->
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rohith-0099&show_icons=true&theme=github_dark&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0099&layout=compact&theme=github_dark&hide_border=true&title_color=00f5ff&text_color=c9d1d9&langs_count=8"/>
 
-### 🎮 CodeQuest-Arena
-**Interactive Coding Challenge Platform**
+<br/>
 
-A competitive coding platform where developers challenge each other, solve algorithmic problems, and track progress with real-time leaderboards.
-
-**Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-[View Project →](https://github.com/rohith-0099/CodeQuest-Arena)
-
-</td>
-<td width="50%">
-
-### 🎯 career_bud
-**AI-Powered Career Guidance**
-
-An intelligent career recommendation system using ML algorithms to help students and professionals make informed career decisions.
-
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-[View Project →](https://github.com/rohith-0099/career_bud)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💭 SentimentAnalysis
-**Advanced NLP Sentiment Analyzer**
-
-A deep learning-based sentiment analysis tool that processes text data and provides accurate emotion detection using state-of-the-art NLP models.
-
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-[View Project →](https://github.com/rohith-0099/SentimentAnalysis)
-
-</td>
-<td width="50%">
-
-### 🚀 More Projects Coming Soon...
-**Stay Tuned!**
-
-Currently working on exciting AI agent projects and automation tools. Follow me to get updates on new releases!
-
-**Focus Areas:**  
-- Agentic AI Systems
-- LLM Integration
-- Autonomous Agents
-
-[Follow for Updates →](https://github.com/rohith-0099)
-
-</td>
-</tr>
-</table>
+<img width="70%" src="https://streak-stats.demolab.com?user=rohith-0099&theme=github-dark-blue&hide_border=true&stroke=00f5ff&ring=00f5ff&fire=ffffff&sideNums=ffffff&currStreakLabel=00f5ff&dates=c9d1d9"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+***
+
+<!-- ══════════════ 3D CONTRIBUTION GRAPH ══════════════ -->
+
+## 🧊 3D Contribution Graph
+
+<!-- SETUP REQUIRED — Do this once:
+  1. Create .github/workflows/profile-3d.yml in this repo (see below)
+  2. Go to Settings → Actions → General → enable "Read and write permissions"
+  3. Go to Actions tab → GitHub-Profile-3D-Contrib → Run workflow (manual trigger)
+  4. Wait ~2 min — images appear in profile-3d-contrib/ folder automatically
+  5. Delete this comment block once it's working
+
+  ── WORKFLOW FILE (.github/workflows/profile-3d.yml) ──────────────────────
+  name: GitHub-Profile-3D-Contrib
+  on:
+    schedule:
+      - cron: "0 18 * * *"
+    workflow_dispatch:
+  permissions:
+    contents: write
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      name: generate-github-profile-3d-contrib
+      steps:
+        - uses: actions/checkout@v4
+        - uses: yoshi389111/github-profile-3d-contrib@latest
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            USERNAME: ${{ github.repository_owner }}
+        - name: Commit & Push
+          run: |
+            git config user.name github-actions[bot]
+            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            git add -A .
+            if git commit -m "update 3d contributions"; then
+              git push
+            fi
+  ───────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rohith-0099/rohith-0099/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rohith-0099/rohith-0099/main/profile-3d-contrib/profile-gitblock.svg" />
+    <img alt="3D Contribution Graph"
+      src="https://raw.githubusercontent.com/rohith-0099/rohith-0099/main/profile-3d-contrib/profile-night-green.svg"
+      width="100%" />
+  </picture>
+</div>
+
+***
+
+<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
+
+## 🐍 Contribution Snake
+
+<!-- SETUP REQUIRED — Do this once:
+  Create .github/workflows/snake.yml in this repo:
+
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 0 * * *" }]
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: rohith-0099
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rohith-0099/rohith-0099/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+</div>
+
+***
+
+<!-- ══════════════ CURRENT MISSION ══════════════ -->
 
 ## 🎯 Current Mission
 
@@ -195,39 +230,27 @@ Currently working on exciting AI agent projects and automation tools. Follow me 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+***
 
+<!-- ══════════════ CONTACT ══════════════ -->
 
-## 📬 Let's Connect
+## 📬 Let's Build Something
 
 <div align="center">
 
-**I'm always excited to collaborate on innovative projects!**
-
-Whether you want to discuss AI, brainstorm ideas, or just chat about tech, feel free to reach out!
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-chandran-aprl/)
-[![Email](https://img.shields.io/badge/Email-Message-00F5FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rohithchandran0011@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohith-0099)
+I'm open to **AI/ML collaborations**, **open source projects**, and **research opportunities.**  
+If you're building something meaningful — let's talk.
 
 <br/>
 
-**"The best way to predict the future is to invent it." - Alan Kay**
+[
+[
+[
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br/><br/>
-
-### Thanks for visiting! ⭐
-
-*Don't forget to star some repositories if you find them interesting!*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+*"The function of good software is to make the complex appear simple."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0d1117&height=100&section=footer" width="100%"/>
