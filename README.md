@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-url-here.png" alt="Banner" width="100%" />
+  <img src="3b29ab1f-c411-4d85-a8df-091b6a8e130b.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Rohith</h1>
