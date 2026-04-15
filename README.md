@@ -60,22 +60,45 @@ fun_fact: "I mass commit 🤝"
 
 ### `> stats`
 
+<!-- Animated GitHub Stats + Streak side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohith-0099&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e&hide_border=false" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohith-0099&theme=github-dark-blue&background=0D1117&border=161B22&stroke=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=8B949E&dates=8B949E" height="170" />
+  <a href="https://github.com/rohith-0099">
+    <img src="https://github-readme-stats.vercel.app/api?username=rohith-0099&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0d1117&border_color=30363d&icon_color=f8d866&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&hide_border=false" height="180" alt="stats" />
+  </a>
+  <a href="https://github.com/rohith-0099">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rohith-0099&theme=radical&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="180" alt="streak" />
+  </a>
 </p>
 
+<!-- Donut Language Chart -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0099&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=c9d1d9&text_color=8b949e" height="150" />
+  <a href="https://github.com/rohith-0099">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0099&layout=donut&theme=radical&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" height="200" alt="languages" />
+  </a>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/rohith-0099">
+    <img src="https://github-profile-trophy.vercel.app/?username=rohith-0099&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" alt="trophies" />
+  </a>
 </p>
 
 ---
 
 ### `> activity`
 
-<!--START_SECTION:activity-->
-<!-- This section is auto-updated if you set up the GitHub Activity README action -->
-<!--END_SECTION:activity-->
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <a href="https://github.com/rohith-0099">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-0099&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8d866&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="activity graph" />
+  </a>
+</p>
+
+<!-- Snake Animation — needs the snake workflow below -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohith-0099/rohith-0099/output/github-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
