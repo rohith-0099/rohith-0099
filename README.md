@@ -18,9 +18,10 @@ class Rohith:
     interests = ["Web Development", "System Design", "Open Source"]
 ```
 
-#### ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
-**🖥️ Languages**
+<h3 align="center">🖥️ Languages</h3>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&width=400" /></p>
 
 <p align="center">
   <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;
@@ -30,7 +31,10 @@ class Rohith:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /></a>
 </p>
 
-**🤖 AI & Machine Learning**
+<br>
+
+<h3 align="center">🤖 AI & Machine Learning</h3>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&width=400" /></p>
 
 <p align="center">
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /></a>&nbsp;
@@ -38,7 +42,10 @@ class Rohith:
   <a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /></a>
 </p>
 
-**🌐 Web Development**
+<br>
+
+<h3 align="center">🌐 Web Development</h3>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&width=400" /></p>
 
 <p align="center">
   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>&nbsp;
@@ -53,7 +60,10 @@ class Rohith:
   <a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a>
 </p>
 
-**🗄️ Database & Storage**
+<br>
+
+<h3 align="center">🗄️ Database & Storage</h3>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&width=400" /></p>
 
 <p align="center">
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a>&nbsp;
@@ -62,7 +72,10 @@ class Rohith:
   <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>
 </p>
 
-**🛠️ DevOps & Tools**
+<br>
+
+<h3 align="center">🛠️ DevOps & Tools</h3>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&width=400" /></p>
 
 <p align="center">
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>&nbsp;
@@ -74,7 +87,9 @@ class Rohith:
   <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /></a>
 </p>
 
-#### ⚡ Currently Building & Learning
+<br>
+
+<h2 align="center">⚡ Currently Building & Learning</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🤖%20AI%20AGENTS-0d1117?style=for-the-badge&logoColor=white" />&nbsp;
@@ -87,7 +102,9 @@ class Rohith:
   <img src="https://img.shields.io/badge/CONVERSATIONAL%20AI-e040fb?style=for-the-badge&logoColor=white" />
 </p>
 
-#### Contributions
+<br>
+
+<h2 align="center">📊 Contributions</h2>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
