@@ -94,8 +94,7 @@ class Rohith:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohith-0099&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohith-0099&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohith-0099&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="220" width="700" />
 </p>
 
 <p align="center">
