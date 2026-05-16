@@ -18,11 +18,7 @@ class Rohith:
     interests = ["Web Development", "System Design", "Open Source"]
 ```
 
-<br>
-
-## ⚡ Tech Stack
-
-<br>
+#### ⚡ Tech Stack
 
 **🖥️ Languages**
 
@@ -34,8 +30,6 @@ class Rohith:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /></a>
 </p>
 
-<br>
-
 **🤖 AI & Machine Learning**
 
 <p align="center">
@@ -43,8 +37,6 @@ class Rohith:
   <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /></a>&nbsp;
   <a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /></a>
 </p>
-
-<br>
 
 **🌐 Web Development**
 
@@ -61,9 +53,7 @@ class Rohith:
   <a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a>
 </p>
 
-<br>
-
-**🗄️ Databases & Storage**
+**🗄️ Database & Storage**
 
 <p align="center">
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a>&nbsp;
@@ -72,13 +62,11 @@ class Rohith:
   <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>
 </p>
 
-<br>
-
-**🛠️ Tools & Platforms**
+**🛠️ DevOps & Tools**
 
 <p align="center">
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>&nbsp;
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>&nbsp;
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>&nbsp;
   <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>&nbsp;
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a>&nbsp;
   <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /></a>&nbsp;
@@ -86,9 +74,7 @@ class Rohith:
   <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /></a>
 </p>
 
-<br>
-
-## ⚡ Currently Building & Learning
+#### ⚡ Currently Building & Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/🤖%20AI%20AGENTS-0d1117?style=for-the-badge&logoColor=white" />&nbsp;
@@ -101,19 +87,15 @@ class Rohith:
   <img src="https://img.shields.io/badge/CONVERSATIONAL%20AI-e040fb?style=for-the-badge&logoColor=white" />
 </p>
 
-<br>
-
-## 📊 Contributions
+#### Contributions
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohith-0099&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-0099&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohith-0099&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohith-0099&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165" />
 </p>
 
 <p align="center">
