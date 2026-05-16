@@ -19,7 +19,7 @@ class Rohith:
 ```
 
 #### ⚡ Tech Stack
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&width=130" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3" width="130" height="3" />
 
 <br>
 
@@ -88,7 +88,7 @@ class Rohith:
 <br>
 
 #### ⚡ Currently Building & Learning
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&width=290" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3" width="280" height="3" />
 
 <br>
 
@@ -106,7 +106,7 @@ class Rohith:
 <br>
 
 #### 📊 Contributions
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3&width=150" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3" width="145" height="3" />
 
 <br>
 
