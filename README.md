@@ -11,12 +11,14 @@
   <img src="https://komarev.com/ghpvc/?username=rohith-0099&style=flat&color=236ad3" />
 </p>
 
+
 ```python
 class Rohith:
     role      = "Full Stack Developer"
     languages = ["Python", "TypeScript", "JavaScript"]
     interests = ["Web Development", "System Design", "Open Source"]
 ```
+
 
 #### ⚡ Tech Stack
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3" width="130" height="3" />
