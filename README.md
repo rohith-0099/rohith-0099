@@ -21,6 +21,7 @@ class Rohith:
 ```
 
 
+
 #### ⚡ Tech Stack
 <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=3" width="130" height="3" />
 
